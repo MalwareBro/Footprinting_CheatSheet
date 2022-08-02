@@ -2,7 +2,7 @@
 Useful commands for enumeration
 
 - Infrastucture-based Enumeration
- - SSL certificate
+  - SSL certificate
  
 - Host-based Enumeration
   - FTP
